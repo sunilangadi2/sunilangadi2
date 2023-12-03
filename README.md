@@ -63,31 +63,6 @@
 
 </details>
 
-<details>
-  <summary>Wakatime ⏳</summary>
-  <br/>
-  <img src="https://wakatime.com/share/@sunilangadi2/d6dcb7a2-5e70-49f5-ae5c-39405f92ffb3.png">
-  <br/>
-  <br/>
-  <br/>
-
-  <img src="https://wakatime.com/share/@sunilangadi2/b43da924-55df-4315-897d-e4dd9fb798f9.png">
-</details>
-
-<details>
-  <summary>Extra Pins 📌</summary>
-  <br/>
-  <a href="https://github.com/sunilangadi2/Lorem-Farsi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilangadi2&repo=Lorem-Farsi&theme=default" />
-</a>
-  <br/>
-  <br/>
- 
-   <a href="https://github.com/sunilangadi2/Happier">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilangadi2&repo=Happier&theme=default" />
-</a>
-  <br/>
-  <br/>
  
    <a href="https://github.com/sunilangadi2/telegram-bot-template">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilangadi2&repo=telegram-bot-template&theme=default" />
