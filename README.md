@@ -61,20 +61,9 @@
   <br/>
   <img src="https://komarev.com/ghpvc/?username=sunilangadi2&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
-</details>
+
 
  
-   <a href="https://github.com/sunilangadi2/telegram-bot-template">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilangadi2&repo=telegram-bot-template&theme=default" />
- </a>
-
-
-   <br/>
-  <br/>
- 
-   <a href="https://github.com/sunilangadi2/personal-site">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sunilangadi2&repo=personal-site&theme=default" />
- </a>
  
 </details>
 
