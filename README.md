@@ -33,11 +33,6 @@
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=sunilangadi2&theme=juicyfresh&no-bg=true" />
-
-<img src="https://komarev.com/ghpvc/?username=sunilangadi2&color=brightgreen" alt="watching_count" />
-
-
 ## GitHub stats 📊
 
 <details>
