@@ -2,7 +2,7 @@
 # Welcome to my GitHub space!
   I'm Sunil Angadi, holding a Master's in Computer Science. </br>
   My passion lies in innovative thinking, problem-solving, and coding, </br>
-  with a keen interest in technologies like <strong>Storage</strong> and <strong>AI</strong>. </br>
+  with a keen interest in technologies like <strong>Storage</strong> and <strong>AI with evolving Quantum Computing </strong>. </br>
 
 </br>
 
